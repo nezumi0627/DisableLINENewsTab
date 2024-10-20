@@ -1,9 +1,9 @@
-TARGET := iphone:clang:latest:14.0
+TARGET := iphone:clang:latest:18.0
 
 # インストール時に終了させるアプリケーションを指定
 INSTALL_TARGET_PROCESSES = LINE
 
-ARCHS = arm64 arm64e
+ARCHS = arm64
 
 include $(THEOS)/makefiles/common.mk
 

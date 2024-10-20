@@ -1,0 +1,9 @@
+Package: com.nezuminium.disablelinenewstab
+Name: DisableLINENewsTab
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A tweak that disables the LINE News tab.
+Maintainer: nezumi0627
+Author: nezumi0627
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
